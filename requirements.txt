@@ -28,3 +28,11 @@ pymysql==1.0.2
 wechatpy==1.8.18
 cryptography==39.0.1
 PySocks==1.7.1
+transformers==4.27.4
+datasets==2.11.0
+torch==2.0.0
+accelerate=0.18.0
+bitsandbytes==0.37.2
+gradio==3.25.0
+deepspeed==0.8.3
+mpi4py==3.1.4
