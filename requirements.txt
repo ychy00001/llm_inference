@@ -36,3 +36,4 @@ bitsandbytes==0.37.2
 gradio==3.25.0
 deepspeed==0.8.3
 mpi4py==3.1.4
+deepspeed-mii==0.0.4
